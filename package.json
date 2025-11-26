@@ -1,0 +1,26 @@
+{
+  "name": "monadic.ts",
+  "version": "0.0.0",
+  "description": "General monads for TypeScript",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuma206/monadic.ts.git"
+  },
+  "keywords": [
+    "monads",
+    "result",
+    "maybe",
+    "writer"
+  ],
+  "author": {
+    "url": "https://zuma.eu.org/",
+    "name": "Zuma206",
+    "email": "zuma@zuma.eu.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zuma206/monadic.ts/issues"
+  },
+  "homepage": "https://github.com/Zuma206/monadic.ts#readme"
+}
