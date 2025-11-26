@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Zuma206/monadic.ts/issues"
   },
-  "homepage": "https://github.com/Zuma206/monadic.ts#readme"
+  "homepage": "https://github.com/Zuma206/monadic.ts#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }
